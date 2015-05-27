@@ -1,7 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 83ace16d8c5ff4a33a389713845d1a11
 folderAsset: yes
 timeCreated: 1432617493
+=======
+guid: 269d3f40a972a41c9a1cd9270d5779a3
+folderAsset: yes
+timeCreated: 1432673302
+>>>>>>> Kyle
 licenseType: Free
 DefaultImporter:
   userData: 
