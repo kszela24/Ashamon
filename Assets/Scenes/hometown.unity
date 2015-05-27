@@ -87,6 +87,8 @@ NavMeshSettings:
     cellSize: .166666672
     manualCellSize: 0
   m_NavMeshData: {fileID: 0}
+<<<<<<< HEAD
+=======
 --- !u!213 &26235443
 Sprite:
   m_ObjectHideFlags: 0
@@ -2349,3 +2351,4 @@ Sprite:
     textureRectOffset: {x: .0267486572, y: 0}
     settingsRaw: 64
     uvTransform: {x: 100, y: 80, z: 100, w: 32}
+>>>>>>> Kyle
