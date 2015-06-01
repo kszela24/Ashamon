@@ -1,0 +1,851 @@
+fileFormatVersion: 2
+guid: 7a55814f730dc43a29260bc68c03bd91
+timeCreated: 1433092339
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Window2_0
+    21300002: Window2_1
+    21300004: Window2_2
+    21300006: Window2_3
+    21300008: Window2_4
+    21300010: Window2_5
+    21300012: Window2_6
+    21300014: Window2_7
+    21300016: Window2_8
+    21300018: Window2_9
+    21300020: Window2_10
+    21300022: Window2_11
+    21300024: Window2_12
+    21300026: Window2_13
+    21300028: Window2_14
+    21300030: Window2_15
+    21300032: Window2_16
+    21300034: Window2_17
+    21300036: Window2_18
+    21300038: Window2_19
+    21300040: Window2_20
+    21300042: Window2_21
+    21300044: Window2_22
+    21300046: Window2_23
+    21300048: Window2_24
+    21300050: Window2_25
+    21300052: Window2_26
+    21300054: Window2_27
+    21300056: Window2_28
+    21300058: Window2_29
+    21300060: Window2_30
+    21300062: Window2_31
+    21300064: Window2_32
+    21300066: Window2_33
+    21300068: Window2_34
+    21300070: Window2_35
+    21300072: Window2_36
+    21300074: Window2_37
+    21300076: Window2_38
+    21300078: Window2_39
+    21300080: Window2_40
+    21300082: Window2_41
+    21300084: Window2_42
+    21300086: Window2_43
+    21300088: Window2_44
+    21300090: Window2_45
+    21300092: Window2_46
+    21300094: Window2_47
+    21300096: Window2_48
+    21300098: Window2_49
+    21300100: Window2_50
+    21300102: Window2_51
+    21300104: Window2_52
+    21300106: Window2_53
+    21300108: Window2_54
+    21300110: Window2_55
+    21300112: Window2_56
+    21300114: Window2_57
+    21300116: Window2_58
+    21300118: Window2_59
+    21300120: Window2_60
+    21300122: Window2_61
+    21300124: Window2_62
+    21300126: Window2_63
+    21300128: Window2_64
+    21300130: Window2_65
+    21300132: Window2_66
+    21300134: Window2_67
+    21300136: Window2_68
+    21300138: Window2_69
+    21300140: Window2_70
+    21300142: Window2_71
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 8192
+    textureFormat: -1
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Window2_0
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 5631
+        width: 211
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_1
+      rect:
+        serializedVersion: 2
+        x: 3142
+        y: 5751
+        width: 392
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_2
+      rect:
+        serializedVersion: 2
+        x: 3588
+        y: 5631
+        width: 211
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_3
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 5706
+        width: 161
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_4
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 4913
+        width: 667
+        height: 752
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_5
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 4933
+        width: 666
+        height: 732
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_6
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 4933
+        width: 667
+        height: 732
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_7
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 5005
+        width: 423
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_8
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 5214
+        width: 178
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_9
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 4955
+        width: 558
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_10
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 5214
+        width: 179
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_11
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 4759
+        width: 245
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_12
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 4759
+        width: 245
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_13
+      rect:
+        serializedVersion: 2
+        x: 3031
+        y: 4768
+        width: 218
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_14
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 4768
+        width: 218
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_15
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 4513
+        width: 186
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_16
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 4417
+        width: 211
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_17
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 4537
+        width: 392
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_18
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 4417
+        width: 211
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_19
+      rect:
+        serializedVersion: 2
+        x: 3856
+        y: 4458
+        width: 85
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_20
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 3663
+        width: 667
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_21
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 3713
+        width: 667
+        height: 778
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_22
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 3713
+        width: 667
+        height: 778
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_23
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 3784
+        width: 423
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_24
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 3994
+        width: 179
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_25
+      rect:
+        serializedVersion: 2
+        x: 3045
+        y: 3735
+        width: 558
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_26
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 3994
+        width: 179
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_27
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 3459
+        width: 571
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_28
+      rect:
+        serializedVersion: 2
+        x: 3017
+        y: 3541
+        width: 218
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_29
+      rect:
+        serializedVersion: 2
+        x: 3415
+        y: 3541
+        width: 218
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_30
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 3487
+        width: 88
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_31
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 3487
+        width: 156
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_32
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 2685
+        width: 667
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_33
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 2685
+        width: 667
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_34
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 2704
+        width: 667
+        height: 731
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_35
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 3272
+        width: 210
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_36
+      rect:
+        serializedVersion: 2
+        x: 3118
+        y: 3392
+        width: 392
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_37
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 3272
+        width: 211
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_38
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 3006
+        width: 314
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_39
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 2587
+        width: 558
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_40
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 2871
+        width: 314
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_41
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 2846
+        width: 178
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_42
+      rect:
+        serializedVersion: 2
+        x: 3622
+        y: 2846
+        width: 178
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_43
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 2519
+        width: 567
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_44
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 2565
+        width: 218
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_45
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 2565
+        width: 218
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_46
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 2466
+        width: 181
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_47
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1762
+        width: 793
+        height: 643
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_48
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1794
+        width: 793
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_49
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1794
+        width: 792
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_50
+      rect:
+        serializedVersion: 2
+        x: 2815
+        y: 2017
+        width: 591
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_51
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 1646
+        width: 210
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_52
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 1744
+        width: 463
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_53
+      rect:
+        serializedVersion: 2
+        x: 3717
+        y: 1646
+        width: 211
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_54
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1677
+        width: 86
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_55
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1092
+        width: 685
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_56
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1092
+        width: 685
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_57
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 1092
+        width: 685
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_58
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 1187
+        width: 434
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_59
+      rect:
+        serializedVersion: 2
+        x: 2763
+        y: 1295
+        width: 178
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_60
+      rect:
+        serializedVersion: 2
+        x: 2991
+        y: 1095
+        width: 689
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_61
+      rect:
+        serializedVersion: 2
+        x: 3703
+        y: 1295
+        width: 178
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_62
+      rect:
+        serializedVersion: 2
+        x: 2746
+        y: 1071
+        width: 219
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_63
+      rect:
+        serializedVersion: 2
+        x: 3723
+        y: 1071
+        width: 219
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_64
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 811
+        width: 211
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_65
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 910
+        width: 463
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_66
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 811
+        width: 211
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_67
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 499
+        width: 179
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_68
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 320
+        width: 577
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_69
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 492
+        width: 178
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_70
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 301
+        width: 219
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window2_71
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 301
+        width: 218
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

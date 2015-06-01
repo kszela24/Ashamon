@@ -36,8 +36,8 @@ namespace CreativeSpore
 				Camera2D = GameObject.FindObjectOfType<Camera2DController>();
 			}
 			
-			m_camera2DFollowBehaviour = Camera2D.transform.GetComponent<FollowObjectBehaviour>();
-			m_camera2DFollowBehaviour.Target = transform;
+			//m_camera2DFollowBehaviour = Camera2D.transform.GetComponent<FollowObjectBehaviour>();
+			//m_camera2DFollowBehaviour.Target = transform;
 		}
 
 		void CreateBullet( Vector3 vPos, Vector3 vDir )
@@ -107,7 +107,7 @@ namespace CreativeSpore
                 if (isMoving)
                 {
                     //m_phyChar.Dir.Normalize();
-                    m_camera2DFollowBehaviour.Target = transform;
+                    //m_camera2DFollowBehaviour.Target = transform;
                 }
                 else
                 {
