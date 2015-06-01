@@ -82,8 +82,8 @@ public class BattleScene : MonoBehaviour {
 
 		if (isMoveSelection) {
 			if (GUI.Button (new Rect (main_button_x_offset, main_button_position_y, main_button_width, main_button_height), "Move1")) {
-				isMain = false;
-				isMoveSelection = true;
+				isMain = true;
+				isMoveSelection = false;
 			}
 		}
 		
