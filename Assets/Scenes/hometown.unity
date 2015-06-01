@@ -87,6 +87,7 @@ NavMeshSettings:
     cellSize: .166666672
     manualCellSize: 0
   m_NavMeshData: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1 &25005784
 GameObject:
   m_ObjectHideFlags: 0
@@ -149,6 +150,11 @@ CanvasRenderer:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 25005784}
 --- !u!213 &39954389
+=======
+<<<<<<< HEAD
+=======
+--- !u!213 &26235443
+>>>>>>> origin/Kyle
 Sprite:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
@@ -3207,3 +3213,4 @@ Sprite:
     textureRectOffset: {x: .0267486572, y: 0}
     settingsRaw: 64
     uvTransform: {x: 100, y: 80, z: 100, w: 32}
+>>>>>>> Kyle
